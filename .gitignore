@@ -1,0 +1,14 @@
+bin
+obj
+Resources/textures/Animations/*.*
+_ReSharper*
+Resources/ResourcePack.zip
+SS13.suo
+Resources/textures/*_Animations.png
+Resources/textures/*_Decals.png
+Resources/textures/*_Effects.png
+Resources/textures/*_Items.png
+Resources/textures/*_Objects.png
+Resources/textures/*_Tiles.png
+Resources/textures/*_UserInterface.png
+Resources/textures/*.TAI
